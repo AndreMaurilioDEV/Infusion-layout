@@ -24,7 +24,7 @@ header{
 
 header .logo{
     background-color: #0CABA8;
-    padding: 19px 80px;
+    padding: 19px 0px;
     color: white;
 }
 
@@ -254,7 +254,7 @@ nav #menu li{
 }
 
 .btn-content-3 button{
-    padding: 15px 60px;
+    padding: 15px 40px;
     border-radius: 10px;
     color: white;
     outline: 0;
@@ -383,7 +383,7 @@ nav #menu li{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 350px;
+    height: 390px;
     gap: 50px;
 }
 
