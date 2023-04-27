@@ -384,6 +384,7 @@ nav #menu li{
     justify-content: center;
     align-items: center;
     height: 500px;
+    width: 100vw;
     gap: 50px;
 }
 
@@ -418,6 +419,10 @@ nav #menu li{
 @media screen and (min-width:480px){
 
 
+    #quotes{
+        height: 350px;
+    }
+
     .card .img{
         display: flex;
         height: 265px;
@@ -432,6 +437,10 @@ nav #menu li{
 }
 
 @media screen and (min-width:600px){
+
+    #quotes{
+        height: 350px;
+    }
     .container-cards {
         height: 100%;
         width: 65vw;
@@ -522,6 +531,7 @@ nav #menu li{
 
         #cards{
             height: 520px;
+            width: 100vw;
         }
 
         .card .img{
@@ -537,6 +547,7 @@ nav #menu li{
             margin: 0 auto;
             display: flex;
             gap: 2px;
+            align-items: center;
           
 
         }
