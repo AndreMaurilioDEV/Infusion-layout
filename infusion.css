@@ -383,7 +383,7 @@ nav #menu li{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 390px;
+    height: 400px;
     gap: 50px;
 }
 
@@ -404,7 +404,7 @@ nav #menu li{
     display: flex;
     align-items: center;
     position: absolute;
-    width: 100%;
+    width: 101%;
     height: 100%;
     border-radius: 10px;
     opacity: 0;
